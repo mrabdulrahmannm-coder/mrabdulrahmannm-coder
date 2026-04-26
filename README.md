@@ -1,3 +1,7 @@
+<p align="center">
+<img width="2172" height="724" alt="ChatGPT Image Apr 26, 2026, 06_19_51 PM" src="https://github.com/user-attachments/assets/3029d925-df63-43a5-b824-fc11973b0e08" />
+</p>
+
 # 💫 About Me:
 A student at Batam State Polytechnic, majoring in Software Engineering Technology. Has a great interest in the world of technology and software development.
 
